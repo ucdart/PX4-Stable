@@ -1,0 +1,18 @@
+PERFORMANCE COUNTERS PRE-FLIGHT
+
+sd write: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+mavlink_txe: 0 events
+mavlink_el: 7831 events, 0 overruns, 25035us elapsed, 3us avg, min 1us max 806us 9.988us rms
+mavlink_txe: 0 events
+mavlink_el: 10539 events, 0 overruns, 89926us elapsed, 8us avg, min 1us max 55098us 536.690us rms
+mc_att_control: 130 events, 0 overruns, 1265us elapsed, 9us avg, min 2us max 31us 4.508us rms
+navigator: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sensor task update: 175 events, 0 overruns, 1596us elapsed, 9us avg, min 4us max 60us 5.963us rms
+adc_samples: 400 events, 0 overruns, 39us elapsed, 0us avg, min 0us max 1us 0.297us rms
+barosim_buffer_overflows: 78 events
+barosim_comms_errors: 0 events
+barosim_measure: 118 events, 0 overruns, 21us elapsed, 0us avg, min 0us max 1us 0.384us rms
+barosim_read: 123 events, 0 overruns, 143us elapsed, 1us avg, min 1us max 11us 1.097us rms
+sim_bad_values: 0 events
+sim_bad_registers: 0 events
+sim_accel_resched: 0 events

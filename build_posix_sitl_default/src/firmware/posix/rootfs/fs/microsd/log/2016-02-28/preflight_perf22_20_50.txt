@@ -1,0 +1,37 @@
+PERFORMANCE COUNTERS PRE-FLIGHT
+
+sd write: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+mavlink_txe: 0 events
+mavlink_el: 7288 events, 0 overruns, 21454us elapsed, 2us avg, min 1us max 176us 3.520us rms
+mavlink_txe: 0 events
+mavlink_el: 7974 events, 0 overruns, 82051us elapsed, 10us avg, min 1us max 56112us 628.412us rms
+mc_att_control: 111 events, 0 overruns, 904us elapsed, 8us avg, min 1us max 29us 3.554us rms
+navigator: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sensor task update: 141 events, 0 overruns, 963us elapsed, 6us avg, min 3us max 23us 2.286us rms
+adc_samples: 325 events, 0 overruns, 28us elapsed, 0us avg, min 1us max 1us 0.281us rms
+barosim_buffer_overflows: 72 events
+barosim_comms_errors: 0 events
+barosim_measure: 111 events, 0 overruns, 27us elapsed, 0us avg, min 1us max 1us 0.431us rms
+barosim_read: 116 events, 0 overruns, 142us elapsed, 1us avg, min 1us max 2us 0.561us rms
+sim_bad_values: 0 events
+sim_bad_registers: 0 events
+sim_accel_resched: 0 events
+sim_mag_read: 236 events, 0 overruns, 376us elapsed, 1us avg, min 1us max 17us 1.150us rms
+sim_accel_read: 1948 events, 0 overruns, 2677us elapsed, 1us avg, min 1us max 28us 1.011us rms
+ctrl_latency: 365 events, 0 overruns, 31847us elapsed, 87us avg, min 31us max 3843us 245.490us rms
+gyrosim_reset_retries: 0 events
+gyrosim_good_transfers: 0 events
+gyrosim_read: 1290 events, 0 overruns, 4962us elapsed, 3us avg, min 1us max 263us 7.777us rms
+gyrosim_gyro_read: 0 events
+gyrosim_accel_read: 0 events
+sim_network_interval: 1591 events, 1990us avg, min 4us max 12236us 469.135us rms
+sim_network_delay: 1624 events, 0 overruns, 820281us elapsed, 505us avg, min 134us max 9921us 509.117us rms
+sim_airspeed_delay: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_gps_delay: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_mag_delay: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_baro_delay: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_mpu_delay: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_accel_delay: 0 events, 0 overruns, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+
+LOAD PRE-FLIGHT
+

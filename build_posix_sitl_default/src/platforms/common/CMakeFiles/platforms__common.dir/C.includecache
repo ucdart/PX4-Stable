@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/platforms/px4_getopt.h
+
+/home/dart/src/PX4-Stable/src/platforms/common/px4_getopt.c
+px4_getopt.h
+-
+stdio.h
+-
+
