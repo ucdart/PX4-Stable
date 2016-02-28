@@ -33,3 +33,17 @@ This repository contains code supporting these boards:
   * FMUv4.x (Pixhawk X and [Pixracer](http://dev.px4.io/hardware-pixracer.html))
   * AeroCore (v1 and v2)
   * STM32F4Discovery (basic support) [Tutorial](https://pixhawk.org/modules/stm32f4discovery)
+
+### For UCD Developers ###
+The submodules 'jMavSim' has already be initialized. If you pull directly from PX4 Firmware from GitHub, please run the following command 
+
+```bash
+git submodule update --init --recursive --force
+```
+
+before running
+
+```bash
+make posix_sitl_default jmavsim
+```
+.
