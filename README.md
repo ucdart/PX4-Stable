@@ -35,7 +35,7 @@ This repository contains code supporting these boards:
   * STM32F4Discovery (basic support) [Tutorial](https://pixhawk.org/modules/stm32f4discovery)
 
 ### For UCD Developers ###
-The submodules 'jMavSim' has already be initialized. If you pull directly from PX4 Firmware from GitHub, please run the following command 
+The submodules 'jMavSim' has already been initialized. If you pull directly from PX4 Firmware from GitHub, please run the following command 
 
 ```bash
 git submodule update --init --recursive --force
