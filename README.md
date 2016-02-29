@@ -47,3 +47,5 @@ before running
 make posix_sitl_default jmavsim
 ```
 .
+
+The purpose of this repository is to allow us to maintain a stable copy that is guaranteed to function regardless of the development of the main repository. Additionally, we can also make change to the firmware if need be and share with the entire team.
